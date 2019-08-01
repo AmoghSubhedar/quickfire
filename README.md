@@ -1,6 +1,7 @@
 # quickfire
 
-### Prerequisites:
+### Installation:
+Java SE Runtime Environment: https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
 Download and run the executable JAR file from <a href="https://github.com/AmoghSubhedar/quickfire/blob/master/dist/quickfire.jar">here.</a>
 
 ### To build the project in NetBeans
